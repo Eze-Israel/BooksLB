@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Metamorphous
+- Font Author: Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name "Metamorphous".
+- Font Source: https://fonts.gstatic.com/s/metamorphous/v20/Wnz8HA03aAXcC39ZEX5y1330PCCthTsmaQ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
